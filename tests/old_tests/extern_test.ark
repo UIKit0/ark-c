@@ -1,0 +1,7 @@
+func extern test() {
+    // idk
+}
+
+func main(): int {
+    return 0;
+}
